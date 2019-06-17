@@ -1,6 +1,6 @@
 from selenium import webdriver
-USER = "oops0429"
-PASS = "ahn1017!!"
+USER = #
+PASS = #비번
 # PhantomJS 드라이버 추출하기 --- (※1)
 #options = webdriver.ChromeOptions() #크롬드라이버
 #options.add_argument('headless')
